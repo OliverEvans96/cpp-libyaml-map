@@ -1,0 +1,5 @@
+opt1: true
+opt2: false
+atoms: [4,3,5]
+num: 3.5
+name: "myname"
